@@ -6,7 +6,7 @@
 
 ## Background
 
-I am an engineer with an interest in infrastructure automation, cloud computing, and web applications. 
+I am an engineer with an interest in infrastructure automation, cloud computing, open source software, and web applications. 
 I currently work with ruby and puppet to support a rapidly growing service running on AWS. 
 
 ## Skills
