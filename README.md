@@ -26,6 +26,8 @@ I help build and scale the systems that support [republic wireless](http://repub
       - Viewing application logs
       - Clearing caches
   - Created automated jenkins jobs to build our applications and dependencies into RPMs and upload them to yum repositories on Amazon S3
+  - Created the base linux AMI that all our instances were launched from
+  - Created Vagrant images and scripting to allow the team to test all infrastracture changes locally before pushing them to the cloud
 
 #### Software Engineer, republic wireless (Oct 2011 - Mar 2012)
   - Created PHP and Ruby applications to suppor the initial launch of [republic wireless](http://republicwireless.com)
