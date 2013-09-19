@@ -7,7 +7,7 @@
 ## Background
 
 I am an engineer with an interest in infrastructure automation, cloud computing, and web applications. 
-I Currently work with ruby and puppet to support a rapidly growing service running on AWS. 
+I currently work with ruby and puppet to support a rapidly growing service running on AWS. 
 
 ## Skills
 Linux (CentOS, Debian, Ubuntu, Arch, Gentoo), AWS, Virtualization, Ruby, Puppet, Bash, Javascript, Java, PHP
