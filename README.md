@@ -7,7 +7,7 @@
 ## Background
 
 I am a software developer with an interest in infrastructure automation, cloud computing, and web applications. 
-Currently I work mostly with ruby and puppet to support a rapidly growing service running on AWS. 
+I Currently work with ruby and puppet to support a rapidly growing service running on AWS. 
 
 
 ## Experience
@@ -16,6 +16,13 @@ Currently I work mostly with ruby and puppet to support a rapidly growing servic
 
 #### Infrastructure Engineer, republic wireless
 I help build and scale the systems that support [republic wireless](http://republicwireless.com)
+  - Created an automated build and deployment system for the team's java application using a combination of Jenkins, Puppet, and Mcollective
+  - Created a simple web interface with ruby to automate all management tasks for the team's infrastructure. 
+    This included:
+      - Changing log levels on the fly
+      - Scaling out to more instances in 2 mouse clicks
+      - Viewing application logs
+      - Clearing Varnish and Ehcache
  
 ### Fidelity Investments, Durham, NC
 #### Software Engineer
