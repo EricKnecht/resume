@@ -9,12 +9,14 @@
 I am a software developer with an interest in infrastructure automation, cloud computing, and web applications. 
 I Currently work with ruby and puppet to support a rapidly growing service running on AWS. 
 
+## Skills
+Linux (CentOS, Debian, Ubuntu, Arch, Gentoo), AWS, Virtualization, Ruby, Puppet, Bash, Javascript, Java, PHP
 
 ## Experience
 
 ### Bandwidth.com, Raleigh, NC
 
-#### Infrastructure Engineer, republic wireless
+#### Devops Engineer, republic wireless (Mar 2012 - Present)
 I help build and scale the systems that support [republic wireless](http://republicwireless.com)
   - Created an automated build and deployment system for the team's java application using a combination of Jenkins, Puppet, and Mcollective
   - Created a simple web interface with ruby to automate all management tasks for the team's infrastructure. 
@@ -23,6 +25,10 @@ I help build and scale the systems that support [republic wireless](http://repub
       - Scaling out to more instances in 2 mouse clicks
       - Viewing application logs
       - Clearing Varnish and Ehcache
+  - Created automated jenkins jobs to build our applications and dependencies into RPMs and upload them to yum repositories on Amazon S3
+
+#### Software Engineer, republic wireless (Oct 2011 - Mar 2012)
+  - Created PHP and Ruby applications to suppor the initial launch of [republic wireless](http://republicwireless.com)
  
 ### Fidelity Investments, Durham, NC
 #### Software Engineer
