@@ -24,7 +24,7 @@ I help build and scale the systems that support [republic wireless](http://repub
       - Changing log levels on the fly
       - Scaling out to more instances in 2 mouse clicks
       - Viewing application logs
-      - Clearing Caches
+      - Clearing caches
   - Created automated jenkins jobs to build our applications and dependencies into RPMs and upload them to yum repositories on Amazon S3
 
 #### Software Engineer, republic wireless (Oct 2011 - Mar 2012)
