@@ -30,7 +30,7 @@ I help build and scale the systems that support [republic wireless](http://repub
   - Created Vagrant images and scripting to allow the team to test all infrastracture changes locally before pushing them to the cloud
 
 #### Software Engineer, republic wireless (Oct 2011 - Mar 2012)
-  - Created PHP and Ruby applications to suppor the initial launch of [republic wireless](http://republicwireless.com)
+  - Created PHP and Ruby applications to support the initial launch of [republic wireless](http://republicwireless.com)
  
 ### Fidelity Investments, Durham, NC
 #### Software Engineer
