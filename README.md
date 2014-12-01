@@ -13,11 +13,17 @@ I currently work with ruby and puppet to support a rapidly growing service runni
 Linux (CentOS, Debian, Ubuntu, Arch, Gentoo), AWS, Virtualization, Ruby, Puppet, Bash, Javascript, Java, PHP
 
 ## Experience
+### Rally Software, Raleigh, NC
+#### Operations Engineer 
+As an Operations Engineer at Rally I worked with teams in Raleigh and Boulder to create and scale Rally's agile software platforms. 
+  - Created chef recipes for managing and deploying multiple applications written in Node.js, java, groovy, ect
+  - Managed a multi terabyte mongodb deployment that powers Rally's analytics platform
+  - Created docker deployment tooling and processes for several applications and services
 
 ### Bandwidth.com, Raleigh, NC
 
-#### Devops Engineer, republic wireless (Mar 2012 - Present)
-I help build and scale the systems that support [republic wireless](http://republicwireless.com)
+#### Devops Engineer, republic wireless (Mar 2012 - December 2013)
+I helped build and scale the systems that support [republic wireless](http://republicwireless.com)
   - Created an automated build and deployment system for the team's java application using a combination of Jenkins, Puppet, and Mcollective
   - Created a simple web interface with ruby to automate all management tasks for the team's infrastructure. 
     This included:
