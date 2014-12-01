@@ -10,7 +10,7 @@ I am an engineer with an interest in infrastructure automation, cloud computing,
 I currently work with ruby and puppet to support a rapidly growing service running on AWS. 
 
 ## Skills
-Linux (CentOS, Debian, Ubuntu, Arch, Gentoo), AWS, Virtualization, Ruby, Puppet, Bash, Javascript, Java, PHP
+Linux (CentOS, Debian, Ubuntu, Arch, Gentoo), AWS, Virtualization, Ruby, Chef, Puppet, Bash, Javascript, Java, PHP, MongoDB
 
 ## Experience
 ### Rally Software, Raleigh, NC
