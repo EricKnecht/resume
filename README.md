@@ -1,6 +1,6 @@
 # Eric Knecht
 
- * <eric@ericknecht.com>
+ * eric@ericknecht.com
  * 919-404-9875
 
 ## Skills
