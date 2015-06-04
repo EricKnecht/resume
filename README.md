@@ -1,6 +1,6 @@
 # Eric Knecht
 
- * eric@ericknecht.com
+ * [eric@ericknecht.com](mailto:eric@ericknecht.com)
  * 919-404-9875
 
 ## Skills
@@ -20,7 +20,6 @@ As an Operations Engineer at Rally I worked with teams in Raleigh and Boulder to
 I helped build and scale the systems that support [republic wireless](http://republicwireless.com)
   - Created an automated build and deployment system for the team's java application using a combination of Jenkins, Puppet, and Mcollective
   - Created a simple web interface with ruby to automate all management tasks for the team's infrastructure. 
-  - Created automated jenkins jobs to build our applications and dependencies into RPMs and upload them to yum repositories on Amazon S3
   - Created Vagrant images and scripting to allow the team to test all infrastracture changes locally before pushing them to the cloud
 
 #### Software Engineer, republic wireless (Oct 2011 - Mar 2012)
