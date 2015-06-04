@@ -1,16 +1,10 @@
 # Eric Knecht
 
  * <eric@ericknecht.com>
- * <http://ericknecht.com>
  * 919-404-9875
 
-## Background
-
-I am an engineer with an interest in infrastructure automation, cloud computing, open source software, and web applications. 
-I currently work with ruby and puppet to support a rapidly growing service running on AWS. 
-
 ## Skills
-Linux (CentOS, Debian, Ubuntu, Arch, Gentoo), AWS, Virtualization, Ruby, Chef, Puppet, Bash, Javascript, Java, PHP, MongoDB
+Linux (CentOS, Debian, Ubuntu), Docker, AWS, Virtualization, Ruby, Chef, Puppet, Bash, Javascript, Java, MongoDB
 
 ## Experience
 ### Rally Software, Raleigh, NC
