@@ -20,13 +20,7 @@ As an Operations Engineer at Rally I worked with teams in Raleigh and Boulder to
 I helped build and scale the systems that support [republic wireless](http://republicwireless.com)
   - Created an automated build and deployment system for the team's java application using a combination of Jenkins, Puppet, and Mcollective
   - Created a simple web interface with ruby to automate all management tasks for the team's infrastructure. 
-    This included:
-      - Changing log levels on the fly
-      - Scaling out to more instances in 2 mouse clicks
-      - Viewing application logs
-      - Clearing caches
   - Created automated jenkins jobs to build our applications and dependencies into RPMs and upload them to yum repositories on Amazon S3
-  - Created the base linux AMI that all our instances were launched from
   - Created Vagrant images and scripting to allow the team to test all infrastracture changes locally before pushing them to the cloud
 
 #### Software Engineer, republic wireless (Oct 2011 - Mar 2012)
@@ -34,8 +28,8 @@ I helped build and scale the systems that support [republic wireless](http://rep
  
 ### Fidelity Investments, Durham, NC
 #### Software Engineer
-I worked on a java based investment planning platform web-service that supported multiple investor facing frontends.   
-These tools helped people plan for retirement, save for college, and maintain their income in retirement.
+I worked on investment planning platform web-service that provided data to multiple investor facing web applications.   
+These tools helped people plan for retirement, save for college, ect.
 
 ## Education
 
