@@ -4,15 +4,22 @@
  * 919-404-9875
 
 ## Skills
-Linux (CentOS, Debian, Ubuntu), Docker, AWS, Virtualization, Ruby, Chef, Puppet, Bash, Javascript, Java, MongoDB
+Linux (CentOS, Debian, Ubuntu), Docker, AWS, Virtualization, Ruby, Chef, HAProxy, nginx, Puppet, Bash, Javascript, Java, MongoDB
 
 ## Experience
-### Rally Software, Raleigh, NC
+### Rally Software, Raleigh, NC (January 2014 - Current)
 #### Operations Engineer 
 As an Operations Engineer at Rally I worked with teams in Raleigh and Boulder to create and scale Rally's agile software platforms. 
   - Created chef recipes for managing and deploying multiple applications written in Node.js, java, groovy, ect
+  - Helped create patterns and reusable cookbooks to maintain consistency and sanity in Rally's large Chef installation
   - Managed a multi terabyte mongodb deployment that powers Rally's analytics platform
-  - Created docker deployment tooling and processes for several applications and services
+    * Managed the migration from a single replica-set to a sharded cluster
+    * Increased scalability and performance while maintaining costs by choosing the right sized EC2 instances for the MongoDB nodes
+    * Created automated backup verification pipeline with Jenkins, Chef, and the Amazon Ruby SDK
+  - Managed the migration of Rally's applications to HAProxy from a hardware load-balancer with zero-downtime
+
+
+&nbsp;     
 
 ### Bandwidth.com, Raleigh, NC
 
