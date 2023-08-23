@@ -1,36 +1,50 @@
 # Eric Knecht
-
- * [eric@ericknecht.com](mailto:eric@ericknecht.com)
- * 919-404-9875
+-------------------     ----------------------------
+eric@ericknecht.com  
+ 919-404-9875     
+-------------------     ----------------------------
 
 ### Skills
-Linux (CentOS, Ubuntu), Chef, Docker, Terraform, AWS, Google Cloud, Ruby, HAProxy, nginx, Bash, Java
+Linux, Kubernetes, Docker, Terraform, AWS, Github Actions
 
 ### Experience
-#### On-site.com (September 2015 - Current)
-##### DevOps Engineer
-As an DevOps Engineer at On-site I've worked to modernize and streamline the operations practices used on both legacy and new webservices.
+#### Groundfloor.us
+##### Senior Infrastructure Engineer (April 2022 - Present)
+As an Infrastructure Engineer at Groundfloor I drove the adoption of modern best practices in a build, qa, deployment and monitoring systems. 
 
-  - Managed the migration to Chef as a configuration management system.
-  - Drove the adoption of an on-call rotation within the team.
-  - Created a post-event retrospective process to improve reliability and learn from outages.
-  - Migrated system monitoring from nagios to Datadog.
-  - Managed the migration of On-sites's applications to HAProxy from a hardware load-balancer with zero-downtime.
+* Adopted Datadog for monitoring and alerting
+* Transitioned all of Groundfloor's Heroku based Infrastructure to Amazon Web Services
+* Automated the deployment process using Github actions and terraform
+* Improved reliability, performance, and cost by analyzing an optimizing application and cloud configuration
 
-#### Rally Software, Raleigh, NC (January 2014 - September 2015)
-##### Operations Engineer
-As an Operations Engineer at Rally I worked with a distributed team to create and scale Rally's agile software platforms.
+#### Tanium
+##### Senior DevOps Engineer (September 2021 - April 2022)
+As a Senior DevOps Engineer I worked on a team which managed and modernized Tanium's build infrastructure.
 
-  - Created chef recipes for managing and deploying multiple applications written in Node.js, java, groovy, etc.
-  - Managed a multi terabyte MongoDB deployment that powers Rally's analytics platform
-    * Increased scalability and performance of MongoDB by migrating from a single replica set to a sharded cluster while keeping EC2 infrastructure spending consistent.
+* Administered Tanium's Github Enterprise, Artifactory, and Jenkins installations 
+* Assisted development teams in moving their products from Jenkins to Github Actions
+* Created best practices and shared tooling for development teams
+  
+##### Senior Site Reliability Engineer (September 2019 – May 2021)
+As a Senior SRE I joined a team which built Tanium's first SaaS products.
+* Created terraform code to define, automate, and manage the lifecycle of Tanium's cloud services 
+* Helped define SLO/SLA's for Tanium products
 
-#### Bandwidth.com, Raleigh, NC
+##### Senior Systems Engineer (March 2018 – September 2019)
+As a Senior Systems Engineer in Tanium's IT Organization I worked to bring automation and Infrastructure as Code to our AWS, Google Cloud, VMware and other computing environments.
+* Used Terraform to codify the existing AWS accounts and applications 
+* Served as a Subject Matter Expert for AWS and DevOps best practices
 
-##### Devops Engineer, republic wireless (Oct 2011 - December 2013)
-I helped build and scale the systems that support the initial launch of [republic wireless](http://republicwireless.com).
+&nbsp; 
+&nbsp; 
+&nbsp; 
+
+##### Oracle (Bronto Software) (September 2017 - March 2018), Tooling Software Engineer 
+##### On-site.com (September 2015 - Current), DevOps Engineer
+##### Rally Software (January 2014 - September 2015), Operations Engineer
+##### Bandwidth.com (Oct 2011 - December 2013), Devops Engineer
 
 
-### Education
+#### Education
 
 B.S., Computer Science, Radford University, 2010
